@@ -1,0 +1,16 @@
+
+            h1 {
+                color: brown;
+            }
+
+            * {
+                border: solid;
+            }
+        
+            .one{
+            
+                background-color: aquamarine;
+                display:flex;
+                justify-content: space-between;
+                
+            }
